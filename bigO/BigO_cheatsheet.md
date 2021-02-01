@@ -1,6 +1,6 @@
-#Big O Cheat Sheet:
+# Big O Cheat Sheet:
 
--Big OsO(1) Constant- no loops
+- Big OsO(1) Constant- no loops
 
 O(log N) Logarithmic- usually searching algorithms have log n if they are sorted (Binary Search)
 
@@ -19,7 +19,7 @@ Iterating through half a collection is still O(n)
 
 Two separate collections: O(a * b)
 
--What can cause time in a function?-
+- What can cause time in a function?-
 
 Operations (+, -, *, /)
 
@@ -29,7 +29,7 @@ Looping (for, while)
 
 Outside Function call (function())
 
--Rule Book
+- Rule Book
 
 Rule 1: Always worst Case
 
@@ -44,7 +44,7 @@ O(a*b)
 
 Rule 4: Drop Non-dominant terms
 
--What causes Space complexity?-
+- What causes Space complexity?-
 
 Variables
 
